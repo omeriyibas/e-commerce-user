@@ -1,6 +1,8 @@
-# PAGES
-
-This directory contains your Application Views and Routes.
-The framework reads all the `*.vue` files inside this directory and creates the router of your application.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/routing).
+![image](https://raw.githubusercontent.com/omeriyibas/e-commerce-admin-vue/main/e-commerce-admin/2023-02-28_11-51_2.png)
+![image](https://raw.githubusercontent.com/omeriyibas/e-commerce-admin-vue/main/e-commerce-admin/2023-02-28_11-51_3.png)
+![image](https://raw.githubusercontent.com/omeriyibas/e-commerce-admin-vue/main/e-commerce-admin/2023-02-28_11-51_4.png)
+![image](https://raw.githubusercontent.com/omeriyibas/e-commerce-admin-vue/main/e-commerce-admin/2023-02-28_11-51_5.png)
+![image](https://raw.githubusercontent.com/omeriyibas/e-commerce-admin-vue/main/e-commerce-admin/2023-02-28_11-51_6.png)
+![image](https://raw.githubusercontent.com/omeriyibas/e-commerce-admin-vue/main/e-commerce-admin/2023-02-28_11-52.png)
+![image](https://raw.githubusercontent.com/omeriyibas/e-commerce-admin-vue/main/e-commerce-admin/2023-02-28_11-52_1.png)
+![image](https://raw.githubusercontent.com/omeriyibas/e-commerce-admin-vue/main/e-commerce-admin/2023-02-28_11-51_3.png)
